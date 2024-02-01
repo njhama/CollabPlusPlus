@@ -1,0 +1,76 @@
+.remote-cursor {
+  border-left: 2px solid #ff4500; /* Orange cursor */
+  margin-left: -2px; /* Align the border with the text */
+}
+
+.remote-selection {
+  background-color: rgba(0, 0, 255, 0.2); /* Example: semi-transparent blue for selection */
+}
+
+.login-button{
+  background-color: #007acc;
+  color: white;
+  border: none;
+  padding: 8px 15px;
+  cursor: pointer;
+  border-radius: 4px;
+  width: 200px;
+  margin-top:20px;
+  margin-right:20px;
+}
+
+.login-button:hover {
+  background-color: #C9302C;
+}
+
+.download-button{
+  background-color: #9237c1;
+  color: white;
+  border: none;
+  padding: 8px 15px;
+  cursor: pointer;
+  border-radius: 4px;
+  width: 50px;
+  margin-top:20px;
+  margin-right:20px;
+}
+
+.download-button:hover {
+  background-color: #732b98;
+}
+
+.icon-html2 {
+  color: #ff622e;
+  margin-right: 11px;
+  font-size: 18px;
+}
+
+.icon-css2 {
+  color: #264de4;
+  margin-right: 11px;
+  font-size: 18px;
+}
+
+.icon-js2 {
+  color: #f7df1e;
+  margin-right: 11px;
+  font-size: 18px;
+}
+
+.icon-java2 {
+  color: #ff9c1b;
+  margin-right: 11px;
+  font-size: 18px;
+}
+
+.icon-txt2 {
+  color: #a4ff90;
+  margin-right: 11px;
+  font-size: 18px;
+}
+
+.icon-else2 {
+  color: #ffffff;
+  margin-right: 11px;
+  font-size: 18px;
+}
