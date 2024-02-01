@@ -1,5 +1,10 @@
 # Collab++
 
+### Concept
+We propose the development of a collaborative code review and debugging platform that aims to provide a user-friendly environment that enables real-time code collaboration, including support for simultaneous code edits and reviews. The project supports multiple users and leverages cloud services to store working codebases. There will also be different functionalities offered to authenticated users and guests. Authenticated users will be able to create, edit, and collaborate on projects while guests will only be able to view public projects. 
+### Motivation
+Oftentimes multiple developers working on a project will struggle to coordinate effectively. Without a joint coding environment conflicting code changes, merge conflicts and delays can occur. This platform would provide an efficient solution for collaborative coding efforts in a variety of team settings, streamlining the development process and enhancing communication and learning among coders. By leveraging cloud this application can be used as an educational tool while facilitating and promoting project collaboration and development.
+
 ![Alt text](/img/1img.png)
 ![Alt text](/img/2img.png)
 ![Alt text](/img/3img.png)
