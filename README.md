@@ -1,4 +1,4 @@
-# 201-finalproject
+# Collab++
 
 ## Setting up Firebase Configuration
 
