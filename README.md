@@ -1,8 +1,8 @@
 # Collab++
 
-![Alt text](/img/1img.jpg)
-![Alt text](/img/2img.jpg)
-![Alt text](/img/3img.jpg)
+![Alt text](/img/1img.png)
+![Alt text](/img/2img.png)
+![Alt text](/img/3img.png)
 
 
 ## Setting up Firebase Configuration
